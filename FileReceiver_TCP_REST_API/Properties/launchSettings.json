@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Testowy_PC": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
